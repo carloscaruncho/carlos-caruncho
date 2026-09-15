@@ -1,7 +1,7 @@
 ![Banner](assets/baner.pnj)
 <h1 align="center">Carlos C D</h1>
-![Python](https://img.shields.io/badge/Python-3.x-blue)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 ### Sobre mi
 

@@ -101,3 +101,4 @@ Pasos para instalarlo.
 > [!CAUTION]
 > Esta acción puede tener consecuencias.
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
+
