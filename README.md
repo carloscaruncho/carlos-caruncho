@@ -1,6 +1,6 @@
 ![Banner](assets/baner.pnj)
 <h1 align="center">Carlos C D</h1>
-bla bla bla
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 
 ### Sobre mi
@@ -9,10 +9,11 @@ bla bla bla
 - **C#**
 - **Java**
 - **Python**
+- **bash**
 ### :speech_balloon:Idiomas
 - **Ingles**
 - **Español**
 
 ## Repositorios
 - ### [app web](https://github.com/carloscaruncho/app-web)
-Mi color favorito para programar es el ` #0969DA ` (azul GitHub).
+- ### [python](https://github.com/carloscaruncho/python)
