@@ -56,6 +56,10 @@ Esta tarjeta se actualizará automáticamente a medida que subas código y hagas
 
 ### 🤝 Conéctate conmigo
 <p align="left">
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:tu-correo@email.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://linkedin.com" target="blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-correo@email.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
 </p>
