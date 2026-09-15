@@ -15,3 +15,4 @@ bla bla bla
 
 ## Repositorios
 - ### [app web](https://github.com/carloscaruncho/app-web)
+Mi color favorito para programar es el ` #0969DA ` (azul GitHub).
