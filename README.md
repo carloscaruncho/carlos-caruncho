@@ -6,10 +6,10 @@
 ### Sobre mi
 
 ### :computer:Lenguajes
-![**C#**](https://img.shields.io/badge/C%23-Basico-orange)  
-![**Java**](https://img.shields.io/badge/Java-Basico-orange)  
-![**Python**](https://img.shields.io/badge/Python-Basico-orange)  
-![**bash**](https://img.shields.io/badge/Bash-Basico-orange)  
+![**C#**](https://img.shields.io/badge/C%23-Basico-orange) 
+![**Java**](https://img.shields.io/badge/Java-Basico-orange) 
+![**Python**](https://img.shields.io/badge/Python-Basico-orange) 
+![**bash**](https://img.shields.io/badge/Bash-Basico-orange) 
 ### :speech_balloon:Idiomas
 - **Ingles**
 - **Español**
