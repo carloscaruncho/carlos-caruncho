@@ -1,26 +1,28 @@
 
-# CFGM
+# 
 ## 2º SMR
-**Carlos Caruncho Ducay**  
+> [!NOTE]
+> **Carlos Caruncho Ducay**  
 **ccd648@gmail.com**  
-**Intereses relacionados con la informática**
+**Lenguajes:**
 ```
-prueba
+- HTML
+- CSS
+- JavaScript
+- Python
 ```
-**Experiencia laboral**
+**:computer: Herramientas:**
 ```
-prueba
+ - Git
+ - GitHub 
 ```
-**Aficiones**
+**Idiomas:**
 ```
-prueba
-```
-**Idiomas**
-```
-prueba
+- [ ] Ingles
+- [x] Español
 ```
 Aula virtual de python [Programacion con python](https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/course/section.php?id=5279#module-17348).  
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![d](https://www.shutterstock.com/es/image-illustration/light-cyan-color-wide-banner-background-1721640130)
 
 
 Una tabla con el horario de 2o SMR
