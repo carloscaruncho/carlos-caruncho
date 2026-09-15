@@ -9,7 +9,8 @@ bla bla bla
 - **C#**
 - **Java**
 - **Python**
-### Idiomas
+### :speech_balloon:
+ Idiomas
 - **Ingles**
 - **Español**
 
