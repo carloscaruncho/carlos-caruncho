@@ -1,5 +1,5 @@
 ![Banner](assets/baner.pnj)
-# Carlos Caruncho
+<h1 align="center">Carlos C D</h1>
 Hola, mi nombre es carlos caruncho ducay 
 
 
@@ -10,5 +10,8 @@ bla bla bla
 - **Java**
 - **Python**
 ### Idiomas
+- **Ingles**
+- **Español**
+
 ## Repositorios
-### [app web](https://github.com/carloscaruncho/app-web)
+- ### [app web](https://github.com/carloscaruncho/app-web)
