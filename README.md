@@ -46,13 +46,9 @@ Además de programar, estas son las herramientas que utilizo en mi día a día p
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-Esta tarjeta se actualizará automáticamente a medida que subas código y hagas commits en tus repositorios:
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de Carlos" />
-</p>
-
----
+  
+    
+    
 
 ### 🤝 Conéctate conmigo
 <p align="left">
