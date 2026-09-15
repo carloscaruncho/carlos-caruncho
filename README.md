@@ -57,9 +57,10 @@ Esta tarjeta se actualizará automáticamente a medida que subas código y hagas
 ### 🤝 Conéctate conmigo
 <p align="left">
   <a href="https://linkedin.com" target="blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@email.com">
-    <img src="https://shields.io" alt="Email" />
+  <a href="mailto:carlos.caruncho08@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-white" alt="Gmail" />
   </a>
 </p>
+
