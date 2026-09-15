@@ -1,5 +1,4 @@
 ![Banner](assets/baner.pnj)
-<h1 align="center">Carlos C D</h1>
 Hola, mi nombre es carlos caruncho ducay 
 
 
