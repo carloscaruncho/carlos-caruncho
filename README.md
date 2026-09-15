@@ -29,9 +29,9 @@ Además de programar, estas son las herramientas que utilizo en mi día a día p
 ### 📂 Mis Proyectos en Desarrollo
 * 🚀 **[Proyecto 1](enlace-a-tu-repositorio):** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
 * ⚙️ **[Scripts-Utilidades](enlace-a-tu-repositorio):** Colección de pequeños scripts automatizados en Bash.
 
 ---
