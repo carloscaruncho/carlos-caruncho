@@ -1,13 +1,15 @@
 ![Banner](assets/baner.pnj)
 <h1 align="center">Carlos C D</h1>
 
-<h1 align="center">![**C#**](https://img.shields.io/badge/C%23-Basico-orange) 
-![**Java**](https://img.shields.io/badge/Java-Basico-orange) 
-![**Python**](https://img.shields.io/badge/Python-Basico-orange) 
-![**bash**](https://img.shields.io/badge/Bash-Basico-orange) 
-</h1>
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-blue" alt="C#">
+  <img src="https://img.shields.io/badge/Java-orange
+  " alt="Java">
+  <img src="https://img.shields.io/badge/Python-yellow" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-gray
+  " alt="bash">
+  
+</p>
 
 ### Sobre mi
 
@@ -16,6 +18,9 @@
 - **Ingles**
 - **Español**
 
-## Repositorios
-- ### [app web](https://github.com/carloscaruncho/app-web)
-- ### [python](https://github.com/carloscaruncho/python)
+## 🚀 Mi proyecto
+
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
+
