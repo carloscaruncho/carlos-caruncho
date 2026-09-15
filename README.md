@@ -1,6 +1,24 @@
+![d](baner.pnj)
+# Carlos Caruncho
+Hola
 
-# 
-## 2º SMR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > [!NOTE]
 > **Carlos Caruncho Ducay**  
 **ccd648@gmail.com**  
