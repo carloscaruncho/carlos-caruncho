@@ -46,9 +46,8 @@ Además de programar, estas son las herramientas que utilizo en mi día a día p
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-  
-    
-    
+
+---
 
 ### 🤝 Conéctate conmigo
 <p align="left">
