@@ -1,15 +1,15 @@
 ![Banner](assets/baner.pnj)
 <h1 align="center">Carlos C D</h1>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 
 ### Sobre mi
 
 ### :computer:Lenguajes
-- **C#**
-- **Java**
-- **Python**
-- **bash**
+![**C#**](https://img.shields.io/badge/C%23-Basico-orange)  
+![**Java**](https://img.shields.io/badge/Java-Basico-orange)  
+![**Python**](https://img.shields.io/badge/Python-Basico-orange)  
+![**bash**](https://img.shields.io/badge/Bash-Basico-orange)  
 ### :speech_balloon:Idiomas
 - **Ingles**
 - **Español**
