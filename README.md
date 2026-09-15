@@ -1,10 +1,10 @@
 ![Banner](assets/baner.pnj)
 <h1 align="center">Carlos C D</h1>
-Hola, mi nombre es carlos caruncho ducay 
+bla bla bla
 
 
 ### Sobre mi
-bla bla bla
+
 ### :computer:Lenguajes
 - **C#**
 - **Java**
